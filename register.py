@@ -5,7 +5,7 @@ root = Tk()
 def getvals():
 	print("User Loged in")
 
-Label(root, text="YOOSUF'S TEC LOGIN PAGE", font="ar 13 bold").grid(row=0, column=3)
+Label(root, text="LOGIN PAGE", font="ar 13 bold").grid(row=0, column=3)
 
 u_name = Label(root, text="User Name")
 email = Label(root, text="Email")
